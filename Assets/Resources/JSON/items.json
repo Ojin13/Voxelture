@@ -1,0 +1,601 @@
+{
+  "items": [
+    {
+      "ID":             1,
+      "name":           "Holy Cube",
+      "itemType":       "Quest Item",
+      "itemDesc":       "Super strong magical artefact.",
+      "imagePath":	    "Textures/HolyCube"
+    },
+    {
+      "ID":           7,
+      "name":         "The one ring",
+      "itemType":     "Wearable",
+      "EquipType":    "Accessory",
+      "itemDesc":     "One ring to rule them all..",
+      "imagePath":    "Textures/Items/OneRing"
+    },
+    {
+      "ID":           8,
+      "name":         "Torch",
+      "itemType":     "Wearable",
+      "EquipType":    "Accessory",
+      "damage":		  "10",
+      "imagePath":	  "Textures/Items/torch",
+      "itemDesc":     "You will be able to see something at night."
+    },
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    {
+      "ID":                 100,
+      "name":               "Light Helmet",
+      "itemType":           "Wearable",
+      "EquipType":          "Head",
+      "precision":          3,
+      "imagePath":	        "Textures/Items/Helmets/helmet_light",
+      "itemDesc":           "Basic helmet with small defence and insignificant speed bonus.",
+      "defence":            5,
+      "speedModification":  0.2
+    },
+    {
+      "ID":              101,
+      "name":           "Grass Helmet",
+      "itemType":       "Wearable",
+      "EquipType":      "Head",
+      "imagePath":	    "Textures/Items/Helmets/helmet_grass",
+      "itemDesc":       "Grass land helmet with small defence.",
+      "defence":        9
+    },
+    {
+      "ID":                 102,
+      "name":               "Frozen Helmet",
+      "itemType":           "Wearable",
+      "EquipType":          "Head",
+      "luck":               3,
+      "imagePath":	        "Textures/Items/Helmets/helmet_ice",
+      "itemDesc":           "Frozen land helmet with medium defence and small speed reduction.",
+      "defence":            12,
+      "speedModification":  -0.2
+    },
+    {
+      "ID":              103,
+      "name":           "Samurai Helmet",
+      "itemType":       "Wearable",
+      "EquipType":      "Head",
+      "imagePath":	    "Textures/Items/Helmets/helmet_samurai",
+      "itemDesc":       "Old Samurai helmet with higher defence.",
+      "defence":        15
+    },
+    {
+      "ID":                 104,
+      "name":               "Integriy Helmet",
+      "itemType":           "Wearable",
+      "EquipType":          "Head",
+      "imagePath":	        "Textures/Items/Helmets/helmet_integrity",
+      "itemDesc":           "Powerfull integrity knight helmet with large defence but also big speed reduction.",
+      "defence":            50,
+      "speedModification":  -0.625
+    },
+    {
+      "ID":                 105,
+      "name":               "Chakra Helmet",
+      "itemType":           "Wearable",
+      "EquipType":          "Head",
+      "imagePath":	        "Textures/Items/Helmets/helmet_chakra",
+      "itemDesc":           "Light chakra helmet with good defence and big speed bonus.",
+      "defence":            16,
+      "speedModification":  0.3
+    },
+    {
+      "ID":              106,
+      "name":           "Hamon Helmet",
+      "itemType":       "Wearable",
+      "EquipType":      "Head",
+      "imagePath":	    "Textures/Items/Helmets/helmet_hamon",
+      "itemDesc":       "Universal hamon helmet, with solid defence. Yare Yare daze..",
+      "defence":        25
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "ID":                 200,
+      "name":               "Light Pants",
+      "itemType":           "Wearable",
+      "EquipType":          "Pants",
+      "imagePath":	        "Textures/Items/Pants/pants_light",
+      "itemDesc":           "Basic pants with small defence and insignificant speed bonus.",
+      "defence":            5,
+      "speedModification":  0.2
+    },
+    {
+      "ID":              201,
+      "name":           "Grass Pants",
+      "itemType":       "Wearable",
+      "EquipType":      "Pants",
+      "imagePath":	    "Textures/Items/Pants/pants_grass",
+      "itemDesc":       "Grass land pants with small defence.",
+      "defence":        9
+    },
+    {
+      "ID":                 202,
+      "name":               "Frozen Pants",
+      "itemType":           "Wearable",
+      "EquipType":          "Pants",
+      "imagePath":	        "Textures/Items/Pants/pants_ice",
+      "itemDesc":           "Frozen land pants with medium defence and insignificant speed reduction.",
+      "defence":            12,
+      "speedModification":  -0.2
+    },
+    {
+      "ID":              203,
+      "name":           "Samurai Pants",
+      "itemType":       "Wearable",
+      "EquipType":      "Pants",
+      "luck":           4,
+      "imagePath":	    "Textures/Items/Pants/pants_samurai",
+      "itemDesc":       "Old Samurai pants with solid defence.",
+      "defence":        15
+    },
+    {
+      "ID":                 204,
+      "name":               "Integriy Pants",
+      "itemType":           "Wearable",
+      "EquipType":          "Pants",
+      "imagePath":	        "Textures/Items/Pants/pants_integrity",
+      "itemDesc":           "Integrity knight pants with very good defence, but also big speed reduction.",
+      "defence":            50,
+      "speedModification":  -0.625
+    },
+    {
+      "ID":              205,
+      "name":               "Chakra Pants",
+      "itemType":           "Wearable",
+      "EquipType":          "Pants",
+      "imagePath":	        "Textures/Items/Pants/pants_chakra",
+      "itemDesc":           "Light chakra pants with good defence and big speed bonus.",
+      "defence":            16,
+      "speedModification":  0.3
+    },
+    {
+      "ID":              206,
+      "name":           "Hamon Pants",
+      "itemType":       "Wearable",
+      "EquipType":      "Pants",
+      "imagePath":	    "Textures/Items/Pants/pants_hamon",
+      "itemDesc":       "Universal hamon pants with solid defence.",
+      "defence":        25
+    },
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    {
+      "ID":                 300,
+      "name":               "Light Armor",
+      "itemType":           "Wearable",
+      "EquipType":          "Chest",
+      "imagePath":	        "Textures/Items/Chest/chest_light",
+      "itemDesc":           "Basic armor with small defence and insignificant speed bonus.",
+      "defence":            5,
+      "speedModification":  0.2
+    },
+    {
+      "ID":              301,
+      "name":           "Grass Armor",
+      "itemType":       "Wearable",
+      "EquipType":      "Chest",
+      "imagePath":	    "Textures/Items/Chest/chest_grass",
+      "itemDesc":       "Grass land armor with solid defence.",
+      "defence":        9
+    },
+    {
+      "ID":                 302,
+      "name":               "Frozen Armor",
+      "itemType":           "Wearable",
+      "EquipType":          "Chest",
+      "imagePath":	        "Textures/Items/Chest/chest_ice",
+      "itemDesc":           "Frozen land armor with medium defence and small speed reduction.",
+      "defence":            12,
+      "speedModification":  -0.2
+    },
+    {
+      "ID":              303,
+      "name":           "Samurai Armor",
+      "itemType":       "Wearable",
+      "EquipType":      "Chest",
+      "imagePath":	    "Textures/Items/Chest/chest_samurai",
+      "itemDesc":       "Old Samurai armor with good defence.",
+      "defence":        15
+    },
+    {
+      "ID":                 304,
+      "name":               "Integriy Armor",
+      "itemType":           "Wearable",
+      "EquipType":          "Chest",
+      "increaseMaxHP":      250,
+      "imagePath":	        "Textures/Items/Chest/chest_integrity",
+      "itemDesc":           "Powerfull integrity knight armor with huge defence, but also big speed reduction.",
+      "defence":            50,
+      "speedModification":  -0.625
+    },
+    {
+      "ID":                 305,
+      "name":               "Chakra Armor",
+      "itemType":           "Wearable",
+      "EquipType":          "Chest",
+      "imagePath":	        "Textures/Items/Chest/chest_chakra",
+      "itemDesc":           "Solid chakra armor with good defence and good speed bonus.",
+      "defence":            16,
+      "speedModification":  0.3
+    },
+    {
+      "ID":              306,
+      "name":           "Hamon Armor",
+      "itemType":       "Wearable",
+      "EquipType":      "Chest",
+      "imagePath":	    "Textures/Items/Chest/chest_hamon",
+      "itemDesc":       "Universal hamon armor with very solid defence.",
+      "defence":        25
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "ID":                 400,
+      "name":               "Light Shoes",
+      "itemType":           "Wearable",
+      "EquipType":          "Shoes",
+      "imagePath":	        "Textures/Items/Shoes/shoes_light",
+      "itemDesc":           "Basic light shoes with small defence and insignificant speed bonus.",
+      "defence":            5,
+      "speedModification":  0.2
+    },
+    {
+      "ID":              401,
+      "name":           "Grass Shoes",
+      "itemType":       "Wearable",
+      "EquipType":      "Shoes",
+      "imagePath":	    "Textures/Items/Shoes/shoes_grass",
+      "itemDesc":       "Grass land shoes with small defence.",
+      "defence":        9
+    },
+    {
+      "ID":                 402,
+      "name":               "Frozen Shoes",
+      "itemType":           "Wearable",
+      "EquipType":          "Shoes",
+      "imagePath":	        "Textures/Items/Shoes/shoes_ice",
+      "itemDesc":           "Frozen land shoes with medium defence and small speed bonus.",
+      "defence":            12,
+      "speedModification":  -0.2
+    },
+    {
+      "ID":              403,
+      "name":           "Samurai Shoes",
+      "itemType":       "Wearable",
+      "EquipType":      "Shoes",
+      "imagePath":	    "Textures/Items/Shoes/shoes_samurai",
+      "itemDesc":       "Old Samurai shoes with good defence.",
+      "defence":        15
+    },
+    {
+      "ID":                 404,
+      "name":               "Integrity Shoes",
+      "itemType":           "Wearable",
+      "EquipType":          "Shoes",
+      "imagePath":	        "Textures/Items/Shoes/shoes_integrity",
+      "itemDesc":           "Powerfull integrity knight shoes with huge defence, but also big speed reduction.",
+      "defence":            50,
+      "speedModification":  -0.625
+    },
+    {
+      "ID":                 405,
+      "name":               "Chakra Shoes",
+      "itemType":           "Wearable",
+      "EquipType":          "Shoes",
+      "luck":               3,
+      "imagePath":	        "Textures/Items/Shoes/shoes_chakra",
+      "itemDesc":           "Light chakra shoes with good defence and big speed bonus.",
+      "defence":            16,
+      "speedModification":  0.3
+    },
+    {
+      "ID":              406,
+      "name":           "Hamon Shoes",
+      "itemType":       "Wearable",
+      "EquipType":      "Shoes",
+      "imagePath":	    "Textures/Items/Shoes/shoes_hamon",
+      "itemDesc":       "Universal hamon shoes with very solid defence.",
+      "defence":        25
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+      "ID":                 500,
+      "name":               "Hunger belt",
+      "itemType":           "Wearable",
+      "EquipType":          "Accessory",
+      "imagePath":	        "Textures/items/Accessory/hunger_belt",
+      "itemDesc":           "Ancient belt that increases your stomach capacity.",
+      "defence":            2,
+      "increaseMaxHunger":  30
+    },
+    {
+      "ID":              501,
+      "name":           "Black goggles",
+      "itemType":       "Wearable",
+      "EquipType":      "Accessory",
+      "imagePath":	    "Textures/items/Accessory/black_goggles",
+      "itemDesc":       "Super cool goggles, that increases your max Health, because you look so cool.",
+      "defence":        2,
+      "increaseMaxHP":  200
+    },
+    {
+      "ID":              502,
+      "name":           "Silicon gloves",
+      "itemType":       "Wearable",
+      "EquipType":      "Accessory",
+      "imagePath":	    "Textures/items/Accessory/silicon_gloves",
+      "itemDesc":       "Powerfull gloves from silicon valley with scary precisions.",
+      "defence":        1,
+      "precision":      12
+    },
+    {
+      "ID":              503,
+      "name":           "Lucker's necklace",
+      "itemType":       "Wearable",
+      "EquipType":      "Accessory",
+      "imagePath":	    "Textures/items/Accessory/lucker_necklace",
+      "itemDesc":       "LGBT necklace, that brings you good luck.",
+      "luck":           10
+    },
+    {
+      "ID":                 504,
+      "name":               "Death's man rope",
+      "itemType":           "Wearable",
+      "EquipType":          "Accessory",
+      "imagePath":	        "Textures/items/Accessory/death_rope",
+      "itemDesc":           "You can kill yourself with it, but you dont have to eat anymore.. Worth it?",
+      "defence":            5,
+      "luck":               5,
+      "precision":          5,
+      "increaseMaxHunger":  20,
+      "increaseMaxHP":      -100
+    },
+    {
+      "ID":                 505,
+      "name":               "Shapeless gem",
+      "itemType":           "Wearable",
+      "EquipType":          "Accessory",
+      "imagePath":	        "Textures/items/Accessory/shapeless_gem",
+      "itemDesc":           "Really weird gem that somehow makes you faster at everything..",
+      "speedModification":  0.45
+    },
+    {
+      "ID":              506,
+      "name":           "Death's man bone",
+      "itemType":       "Wearable",
+      "EquipType":      "Accessory",
+      "imagePath":	    "Textures/items/Accessory/bone",
+      "itemDesc":       "Remember to eat.",
+      "defence":            5,
+      "luck":               5,
+      "precision":          5,
+      "increaseMaxHunger":  -50,
+      "increaseMaxHP":      100
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "ID":                 600,
+      "name":               "Iron sword",
+      "itemType":           "Wearable",
+      "EquipType":          "Weapon",
+      "EquipSubType":       "Sword",
+      "precision":          4,
+      "imagePath":	        "Textures/items/Weapons/iron_sword",
+      "itemDesc":           "Super normal iron sword.",
+      "speedModification":  -0.1,
+      "damage":             15
+    },
+    {
+      "ID":                 601,
+      "name":               "Viking's Axe",
+      "itemType":           "Wearable",
+      "EquipType":          "Weapon",
+      "EquipSubType":       "Axe",
+      "imagePath":	        "Textures/items/Weapons/axe_viking",
+      "itemDesc":           "Ragnar Lothbrok would like it for sure.",
+      "speedModification":  -0.2,
+      "damage":             20
+    },
+    {
+      "ID":                 602,
+      "name":               "Ork mace",
+      "itemType":           "Wearable",
+      "EquipType":          "Weapon",
+      "EquipSubType":       "Mace",
+      "imagePath":	        "Textures/items/Weapons/mace",
+      "itemDesc":           "Really big stick.",
+      "speedModification":  -0.3,
+      "damage":             25
+    },
+    {
+      "ID":                 603,
+      "name":               "Mithril sword",
+      "itemType":           "Wearable",
+      "EquipType":          "Weapon",
+      "EquipSubType":       "Sword",
+      "imagePath":	        "Textures/items/Weapons/mithril_sword",
+      "itemDesc":           "It's unconfrotably light.",
+      "damage":             35
+    },
+    {
+      "ID":                 604,
+      "name":               "Thor's hammer",
+      "itemType":           "Wearable",
+      "EquipType":          "Weapon",
+      "EquipSubType":       "Hammer",
+      "imagePath":	        "Textures/items/Weapons/hammer",
+      "itemDesc":           "I'm still worthy!",
+      "speedModification":  -0.35,
+      "damage":             36
+    },
+    {
+      "ID":                 605,
+      "name":               "Obsidian axe",
+      "itemType":           "Wearable",
+      "EquipType":          "Weapon",
+      "EquipSubType":       "Axe",
+      "imagePath":	        "Textures/items/Weapons/axe_black",
+      "itemDesc":           "Created in Mount Doom.",
+      "speedModification":  -0.3,
+      "damage":             32
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "ID":           700,
+      "name":         "Rotten meat",
+      "imagePath":	  "Textures/Items/Consumable/rotten_meat",
+      "itemType":     "Consumable",
+      "itemDesc":     "You know it does from Minecraft.",
+      "addHP":        -10,
+      "addHunger":    10
+    },
+    {
+      "ID":           701,
+      "name":         "HP potion",
+      "itemType":     "Consumable",
+      "addHP":        10,
+      "imagePath":	  "Textures/Items/Consumable/HP_potion",
+      "itemDesc":     "Suspicius ref flud you found.. Let's try to drink it!"
+    },
+    {
+      "ID":           702,
+      "name":         "Hunger potion",
+      "itemType":     "Consumable",
+      "addHunger":    10,
+      "imagePath":	  "Textures/Items/Consumable/HUNGER_potion",
+      "itemDesc":     "MANA dring/food."
+    },
+    {
+      "ID":           703,
+      "name":         "EXP potion",
+      "itemType":     "Consumable",
+      "addEXP":       10,
+      "imagePath":	  "Textures/Items/Consumable/EXP_potion",
+      "itemDesc":     "You have to drink in order to gain experiences. 18+"
+    },
+    {
+      "ID":           704,
+      "name":         "Meat",
+      "itemType":     "Consumable",
+      "addHunger":     15,
+      "addHP":         5,
+      "imagePath":	  "Textures/Items/Consumable/meat",
+      "itemDesc":     "Finally some good f***ing food!"
+    },
+    {
+      "ID":           705,
+      "name":         "Herbs",
+      "itemType":     "Consumable",
+      "addHunger":     5,
+      "addHP":         15,
+      "imagePath":	  "Textures/Items/Consumable/herbs",
+      "itemDesc":     "Let's try to light it!"
+    },
+    {
+      "ID":           706,
+      "name":         "Chicken wings",
+      "itemType":     "Consumable",
+      "addHunger":     30,
+      "addHP":         15,
+      "imagePath":	  "Textures/Items/Consumable/chicken_wings",
+      "itemDesc":     "Kentucky fried chicken!"
+    }
+  ]
+}

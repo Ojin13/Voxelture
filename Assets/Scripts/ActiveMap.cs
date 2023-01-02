@@ -7,6 +7,7 @@ public class ActiveMap : MonoBehaviour
 {
     public static ActiveMap ActiveMapControl;
     public Camera cam;
+    public int activeDistance = 500;
 
     public void Awake()
     {
@@ -19,7 +20,7 @@ public class ActiveMap : MonoBehaviour
         {
             foreach (var obj in GetComponentsInChildren<MeshRenderer>())
             {
-                if (Vector3.Distance(PlayerController.Player.transform.position, obj.transform.position) > 1000)
+                if (Vector3.Distance(PlayerController.Player.transform.position, obj.transform.position) > activeDistance)
                 {
                     obj.gameObject.GetComponent<MeshRenderer>().enabled = false;
                 }
@@ -73,7 +74,7 @@ public class ActiveMap : MonoBehaviour
     
     public void setInvisible(MeshRenderer obj)
     {
-        if (Vector3.Distance(PlayerController.Player.transform.position, obj.transform.position) > 1000)
+        if (Vector3.Distance(PlayerController.Player.transform.position, obj.transform.position) > activeDistance)
         {
             obj.gameObject.GetComponent<MeshRenderer>().enabled = false;
         }
